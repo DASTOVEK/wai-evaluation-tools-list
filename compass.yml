@@ -1,0 +1,13 @@
+name: wai-evaluation-tools-list
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/de9ab5a4-7590-4414-b18a-ab7310d946be
+description: List of Accessibility Evaluation Tools
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
